@@ -69,14 +69,18 @@ div{
 }
 
 .green{
-    background-color: #00D800;
+    background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
 }
+
 footer{
     background: linear-gradient(to right, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
     border: 5px solid #FFFFFF;
+ }
+
+footer p{
     font-size: 20px;
     text-align: right;
     padding: 15px 15px 15px 0px;
